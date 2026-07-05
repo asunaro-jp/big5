@@ -1,0 +1,9 @@
+{
+  "keyed": {
+    "very_inaccurate": "全く当てはまらない",
+    "moderately_inaccurate": "あまり当てはまらない",
+    "neither": "どちらともいえない",
+    "moderately_accurate": "少し当てはまる",
+    "very_accurate": "非常によく当てはまる"
+  }
+}
