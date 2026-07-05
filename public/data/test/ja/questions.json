@@ -1,12 +1,12 @@
 [
-  { "id": 1, "text": "Am the life of the party", "domain": "extraversion", "facet": 1, "keyed": "very_accurate" },
-  { "id": 2, "text": "Make friends easily", "domain": "extraversion", "facet": 1, "keyed": "very_accurate" },
-  { "id": 3, "text": "Feel comfortable around people", "domain": "extraversion", "facet": 1, "keyed": "very_accurate" },
-  { "id": 4, "text": "Keep in the background", "domain": "extraversion", "facet": 1, "keyed": "very_inaccurate" },
-  { "id": 5, "text": "Don't talk a lot", "domain": "extraversion", "facet": 1, "keyed": "very_inaccurate" },
-  { "id": 6, "text": "Would copy recipes", "domain": "openness", "facet": 1, "keyed": "very_inaccurate" },
-  { "id": 7, "text": "Have a vivid imagination", "domain": "openness", "facet": 2, "keyed": "very_accurate" },
-  { "id": 8, "text": "Respect authority", "domain": "agreeableness", "facet": 3, "keyed": "very_accurate" },
-  { "id": 9, "text": "Get angry easily", "domain": "neuroticism", "facet": 2, "keyed": "very_inaccurate" },
-  { "id": 10, "text": "Carry out my plans", "domain": "conscientiousness", "facet": 5, "keyed": "very_accurate" }
+  { "id": 1, "text": "新しい友達を簡単に作ることができる", "domain": "extraversion", "facet": 1, "keyed": "very_accurate" },
+  { "id": 2, "text": "周りの人を笑わせるのが好きだ", "domain": "extraversion", "facet": 1, "keyed": "very_accurate" },
+  { "id": 3, "text": "大勢の人がいる場所でもリラックスできる", "domain": "extraversion", "facet": 1, "keyed": "very_accurate" },
+  { "id": 4, "text": "グループの中ではあまり目立たないようにしている", "domain": "extraversion", "facet": 1, "keyed": "very_inaccurate" },
+  { "id": 5, "text": "自分から積極的に話しかけるのは苦手だ", "domain": "extraversion", "facet": 1, "keyed": "very_inaccurate" },
+  { "id": 6, "text": "いつもと同じやり方を好む（新しい方法を試すのは面倒だ）", "domain": "openness", "facet": 1, "keyed": "very_inaccurate" },
+  { "id": 7, "text": "想像力が豊かで、いろいろなアイデアが浮かぶ", "domain": "openness", "facet": 2, "keyed": "very_accurate" },
+  { "id": 8, "text": "ルールや目上の人の意見を尊重する", "domain": "agreeableness", "facet": 3, "keyed": "very_accurate" },
+  { "id": 9, "text": "ちょっとしたことでイライラしたり怒ったりしやすい", "domain": "neuroticism", "facet": 2, "keyed": "very_inaccurate" },
+  { "id": 10, "text": "一度決めた計画は、最後までやり抜く", "domain": "conscientiousness", "facet": 5, "keyed": "very_accurate" }
 ]
