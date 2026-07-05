@@ -1,0 +1,40 @@
+{
+  "main": {
+    "title": "ビッグファイブ性格診断テスト",
+    "start_test": "テストを開始する",
+    "quizzes_loading": "質問を読み込んでいます...",
+    "disclaimer": "※このテストは科学的な性格分析（Big Five）に基づく簡易的な診断です。",
+    "results": "あなたの診断結果",
+    "score": "スコア",
+    "back_to_home": "ホームに戻る"
+  },
+  "choices": {
+    "very_inaccurate": "全く当てはまらない",
+    "moderately_inaccurate": "あまり当てはまらない",
+    "neither": "どちらともいえない",
+    "moderately_accurate": "少し当てはまる",
+    "very_accurate": "非常によく当てはまる"
+  },
+  "traits": {
+    "extraversion": {
+      "title": "外向性（コミュニケーション力）",
+      "description": "他者との関わりや、社交性を表す指標です。"
+    },
+    "agreeableness": {
+      "title": "協調性（周りへの思いやり）",
+      "description": "周囲の人と協力し、共感する力を表す指標です。"
+    },
+    "conscientiousness": {
+      "title": "誠実性（計画性とやり抜く力）",
+      "description": "目標に向かってコツコツ計画的に取り組む力を表す指標です。"
+    },
+    "neuroticism": {
+      "title": "情緒安定性（メンタルのタフさ）",
+      "description": "ストレスや不安に対して、どれだけ冷静でいられるかの指標です。"
+    },
+    "openness": {
+      "title": "開放性 (知的好奇心・ひらめき)",
+      "description": "新しいことへの興味や、クリエイティブな発想力を表す指標です。"
+    }
+  }
+}
