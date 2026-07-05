@@ -1,0 +1,9 @@
+{
+  "keyed": {
+    "very_inaccurate": "Very Inaccurate",
+    "moderately_inaccurate": "Moderately Inaccurate",
+    "neither": "Neither",
+    "moderately_accurate": "Moderately Accurate",
+    "very_accurate": "Very Accurate"
+  }
+}
